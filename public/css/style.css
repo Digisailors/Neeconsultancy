@@ -30133,7 +30133,7 @@ fieldset[disabled] .box-offer.active .btn-primary {
 .navbar-inverse h1,
 .context-dark h1,
 .swiper-slide-caption h1, .navbar-inverse .h1, .context-dark .h1, .swiper-slide-caption .h1, .navbar-inverse h2, .context-dark h2, .swiper-slide-caption h2, .navbar-inverse .h2, .context-dark .h2, .swiper-slide-caption .h2, .navbar-inverse h3, .context-dark h3, .swiper-slide-caption h3, .navbar-inverse .h3, .context-dark .h3, .swiper-slide-caption .h3, .navbar-inverse h4, .context-dark h4, .swiper-slide-caption h4, .navbar-inverse .h4, .context-dark .h4, .swiper-slide-caption .h4, .navbar-inverse h5, .context-dark h5, .swiper-slide-caption h5, .navbar-inverse .h5, .context-dark .h5, .swiper-slide-caption .h5, .navbar-inverse h6, .context-dark h6, .swiper-slide-caption h6, .navbar-inverse .h6, .context-dark .h6, .swiper-slide-caption .h6 {
-	color: #fff;
+	color: #000000;
 }
 
 .navbar-inverse p a, .context-dark p a, .swiper-slide-caption p a, .navbar-inverse p a:active, .context-dark p a:active, .swiper-slide-caption p a:active, .navbar-inverse p a:focus, .context-dark p a:focus, .swiper-slide-caption p a:focus,
@@ -30218,7 +30218,7 @@ fieldset[disabled] .box-offer.active .btn-primary {
 }
 
 .navbar-inverse .btn-default, .context-dark .btn-default, .swiper-slide-caption .btn-default {
-	color: #fff;
+	color: rgb(245, 10, 10);
 	background-color: transparent;
 	border-color: #fff;
 }
@@ -34553,7 +34553,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 	z-index: 10;
 	cursor: pointer;
 	opacity: .7;
-	color: #fff;
+	color: #000000;
 }
 
 .swiper-button-prev:hover,
